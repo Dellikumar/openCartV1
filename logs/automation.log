@@ -1,0 +1,121 @@
+2024-09-16 12:46:47 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 12:46:55 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 12:49:50 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 12:51:14 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 12:54:50 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 12:54:56 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 12:57:04 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 12:57:12 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 13:10:01 INFO  TC001_AccountRegistrationTest:24 - *******Starting Account registration Test **************
+2024-09-16 13:10:02 INFO  TC001_AccountRegistrationTest:27 - **click on My account link**
+2024-09-16 13:10:26 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 13:10:32 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 13:10:50 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 13:10:57 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 13:10:57 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 13:11:06 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 13:11:06 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 13:11:11 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 13:11:11 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 13:11:15 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 13:11:15 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 13:11:19 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 13:11:19 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 13:11:23 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 14:47:48 INFO  TC001_AccountRegistrationTest:24 - *******Starting Account registration Test **************
+2024-09-16 14:47:48 INFO  TC001_AccountRegistrationTest:27 - **click on My account link**
+2024-09-16 14:47:49 INFO  TC001_AccountRegistrationTest:29 - **click on register link**
+2024-09-16 14:47:50 INFO  TC001_AccountRegistrationTest:32 - **Enter first name**
+2024-09-16 14:47:50 INFO  TC001_AccountRegistrationTest:34 - **Enter Last name**
+2024-09-16 14:47:50 INFO  TC001_AccountRegistrationTest:36 - **Enter Email id**
+2024-09-16 14:47:50 INFO  TC001_AccountRegistrationTest:38 - **Enter Password**
+2024-09-16 14:47:55 INFO  TC001_AccountRegistrationTest:44 - **click on slide bar**
+2024-09-16 14:48:02 INFO  TC001_AccountRegistrationTest:47 - **click on submit**
+2024-09-16 14:48:02 INFO  TC001_AccountRegistrationTest:55 - **Account successflly created**
+2024-09-16 14:48:02 INFO  TC001_AccountRegistrationTest:68 - *******Ending Account registration Test **************
+2024-09-16 14:48:16 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 14:48:23 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 14:48:39 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 14:48:51 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 14:48:56 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 14:48:56 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 14:49:00 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 14:49:00 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 14:49:04 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 14:49:04 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 14:49:08 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 14:49:08 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 14:49:12 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:48:58 INFO  TC001_AccountRegistrationTest:24 - *******Starting Account registration Test **************
+2024-09-16 15:48:59 INFO  TC001_AccountRegistrationTest:27 - **click on My account link**
+2024-09-16 15:49:00 INFO  TC001_AccountRegistrationTest:29 - **click on register link**
+2024-09-16 15:49:08 INFO  TC001_AccountRegistrationTest:32 - **Enter first name**
+2024-09-16 15:49:09 INFO  TC001_AccountRegistrationTest:34 - **Enter Last name**
+2024-09-16 15:49:09 INFO  TC001_AccountRegistrationTest:36 - **Enter Email id**
+2024-09-16 15:49:09 INFO  TC001_AccountRegistrationTest:38 - **Enter Password**
+2024-09-16 15:49:14 INFO  TC001_AccountRegistrationTest:44 - **click on slide bar**
+2024-09-16 15:49:21 INFO  TC001_AccountRegistrationTest:47 - **click on submit**
+2024-09-16 15:49:21 INFO  TC001_AccountRegistrationTest:55 - **Account successflly created**
+2024-09-16 15:49:21 INFO  TC001_AccountRegistrationTest:68 - *******Ending Account registration Test **************
+2024-09-16 15:49:34 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 15:49:40 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 15:49:55 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:50:07 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:50:21 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:50:25 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:50:25 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:50:29 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:50:29 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:50:32 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:50:32 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:50:36 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:51:15 INFO  TC001_AccountRegistrationTest:24 - *******Starting Account registration Test **************
+2024-09-16 15:51:15 INFO  TC001_AccountRegistrationTest:27 - **click on My account link**
+2024-09-16 15:51:16 INFO  TC001_AccountRegistrationTest:29 - **click on register link**
+2024-09-16 15:51:16 INFO  TC001_AccountRegistrationTest:32 - **Enter first name**
+2024-09-16 15:51:16 INFO  TC001_AccountRegistrationTest:34 - **Enter Last name**
+2024-09-16 15:51:16 INFO  TC001_AccountRegistrationTest:36 - **Enter Email id**
+2024-09-16 15:51:16 INFO  TC001_AccountRegistrationTest:38 - **Enter Password**
+2024-09-16 15:51:21 INFO  TC001_AccountRegistrationTest:44 - **click on slide bar**
+2024-09-16 15:51:28 INFO  TC001_AccountRegistrationTest:47 - **click on submit**
+2024-09-16 15:51:28 INFO  TC001_AccountRegistrationTest:55 - **Account successflly created**
+2024-09-16 15:51:28 INFO  TC001_AccountRegistrationTest:68 - *******Ending Account registration Test **************
+2024-09-16 15:51:42 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 15:51:48 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 15:52:11 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:52:17 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:52:17 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:52:21 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:52:21 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:52:26 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:52:26 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:52:30 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:52:30 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:52:34 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:52:34 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:52:38 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:59:01 INFO  TC001_AccountRegistrationTest:24 - *******Starting Account registration Test **************
+2024-09-16 15:59:01 INFO  TC001_AccountRegistrationTest:27 - **click on My account link**
+2024-09-16 15:59:03 INFO  TC001_AccountRegistrationTest:29 - **click on register link**
+2024-09-16 15:59:03 INFO  TC001_AccountRegistrationTest:32 - **Enter first name**
+2024-09-16 15:59:03 INFO  TC001_AccountRegistrationTest:34 - **Enter Last name**
+2024-09-16 15:59:03 INFO  TC001_AccountRegistrationTest:36 - **Enter Email id**
+2024-09-16 15:59:03 INFO  TC001_AccountRegistrationTest:38 - **Enter Password**
+2024-09-16 15:59:08 INFO  TC001_AccountRegistrationTest:44 - **click on slide bar**
+2024-09-16 15:59:15 INFO  TC001_AccountRegistrationTest:47 - **click on submit**
+2024-09-16 15:59:15 INFO  TC001_AccountRegistrationTest:55 - **Account successflly created**
+2024-09-16 15:59:15 INFO  TC001_AccountRegistrationTest:68 - *******Ending Account registration Test **************
+2024-09-16 15:59:29 INFO  TC002_LoginTest:18 - ****Login test Started ***********
+2024-09-16 15:59:36 INFO  TC002_LoginTest:32 - ****Login test Ended***********
+2024-09-16 15:59:50 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 15:59:56 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 15:59:56 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 16:00:00 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 16:00:00 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 16:00:04 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 16:00:04 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 16:00:08 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 16:00:08 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 16:00:11 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******
+2024-09-16 16:00:11 INFO  TC003_LoginDDT:24 - ***** stating TC_003_LoginDDT ******
+2024-09-16 16:00:15 INFO  TC003_LoginDDT:67 - ***** Finished TC_003_LoginDDT ******

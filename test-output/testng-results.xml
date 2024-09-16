@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-16T07:39:47Z" name="Suite" finished-at="2024-09-16T07:41:23Z" duration-ms="95748">
+    <groups>
+      <group name="regression">
+        <method signature="TC001_AccountRegistrationTest.verifyRegistrationTest()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c2c1385]" name="verifyRegistrationTest" class="testCases.TC001_AccountRegistrationTest"/>
+        <method signature="TC002_LoginTest.testLoginFunctionality()[pri:0, instance:testCases.TC002_LoginTest@5f354bcf]" name="testLoginFunctionality" class="testCases.TC002_LoginTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC001_AccountRegistrationTest.verifyRegistrationTest()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c2c1385]" name="verifyRegistrationTest" class="testCases.TC001_AccountRegistrationTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="TC002_LoginTest.testLoginFunctionality()[pri:0, instance:testCases.TC002_LoginTest@5f354bcf]" name="testLoginFunctionality" class="testCases.TC002_LoginTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-09-16T07:39:47Z" name="Test" finished-at="2024-09-16T07:41:23Z" duration-ms="95748">
+      <class name="testCases.TC002_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@5f354bcf]" started-at="2024-09-16T13:10:14Z" name="setUp" finished-at="2024-09-16T13:10:26Z" duration-ms="12457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginFunctionality()[pri:0, instance:testCases.TC002_LoginTest@5f354bcf]" started-at="2024-09-16T13:10:26Z" name="testLoginFunctionality" finished-at="2024-09-16T13:10:37Z" duration-ms="10682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@5f354bcf]" started-at="2024-09-16T13:10:37Z" name="tearDown" finished-at="2024-09-16T13:10:37Z" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_LoginTest -->
+      <class name="testCases.TC003_LoginDDT">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:10:37Z" name="setUp" finished-at="2024-09-16T13:10:50Z" duration-ms="12617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_loginDDT(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:10:50Z" name="verify_loginDDT" data-provider="ExcelData" finished-at="2024-09-16T13:10:57Z" duration-ms="7089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dillikumar123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:10:57Z" name="verify_loginDDT" data-provider="ExcelData" finished-at="2024-09-16T13:11:06Z" duration-ms="9076" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lakshmi@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laxmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:11:06Z" name="verify_loginDDT" data-provider="ExcelData" finished-at="2024-09-16T13:11:11Z" duration-ms="4802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laksh@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:11:11Z" name="verify_loginDDT" data-provider="ExcelData" finished-at="2024-09-16T13:11:15Z" duration-ms="3682" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laks@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:11:15Z" name="verify_loginDDT" data-provider="ExcelData" finished-at="2024-09-16T13:11:19Z" duration-ms="4025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:11:19Z" name="verify_loginDDT" data-provider="ExcelData" finished-at="2024-09-16T13:11:23Z" duration-ms="3909" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_LoginDDT@3daf7722]" started-at="2024-09-16T13:11:23Z" name="tearDown" finished-at="2024-09-16T13:11:23Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_LoginDDT -->
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c2c1385]" started-at="2024-09-16T13:09:47Z" name="setUp" finished-at="2024-09-16T13:10:01Z" duration-ms="13314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegistrationTest()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c2c1385]" started-at="2024-09-16T13:10:01Z" name="verifyRegistrationTest" finished-at="2024-09-16T13:10:12Z" duration-ms="11683" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=128.0.6613.138)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [387400bb42f16d27bcae94d55cb5ac23, clickElement {id=f.1B11BDD9D92613773E0DB495EF4E96A2.d.AB6ADFE2F18D3C04D3816A15003E4AAB.e.79}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\Chand\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61513}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61513/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (387400bb42f16d27bcae94d55cb5ac23)] -> xpath: (//*[text()='Register'])[1]]
+Session ID: 387400bb42f16d27bcae94d55cb5ac23]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [387400bb42f16d27bcae94d55cb5ac23, clickElement {id=f.1B11BDD9D92613773E0DB495EF4E96A2.d.AB6ADFE2F18D3C04D3816A15003E4AAB.e.79}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\Chand\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61513}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61513/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (387400bb42f16d27bcae94d55cb5ac23)] -> xpath: (//*[text()='Register'])[1]]
+Session ID: 387400bb42f16d27bcae94d55cb5ac23
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source)
+	at pageObjects.HomePage.clickRegisterLink(HomePage.java:32)
+	at testCases.TC001_AccountRegistrationTest.verifyRegistrationTest(TC001_AccountRegistrationTest.java:28)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c2c1385]" started-at="2024-09-16T13:10:13Z" name="tearDown" finished-at="2024-09-16T13:10:14Z" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
